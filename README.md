@@ -34,13 +34,13 @@ The notebooks included in this repository cover various phases of data testing. 
 ## Screenshots
 
 - **WEAR Home:** 
-![WEARhome](images/WEAR_home.png)
+![WEARhome](app/images/WEAR_home.png)
 This image showcases the key criteria for the program, emphasizing the importance of location and destination temperature differences.
 
 - **WEAR Recommendation Form:**
-![WEARrecform](images/WEAR_recommender_form.png)
+![WEARrecform](app/images/WEAR_recommender_form.png)
 In this screenshot, you can see the output, which provides clothing recommendations and essential items for morning, afternoon, and evening. The recommendations dynamically adjust based on the current time of day and precipitation probability.
-![WEARoutput](images/WEAR_recommender_output.png)
+![WEARoutput](app/images/WEAR_recommender_output.png)
 
 ## Presentation
 
